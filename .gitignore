@@ -1,0 +1,9 @@
+# cache file
+.ipynb_checkpoints
+.DS_Store
+
+# extra data
+10 plants dataset/*/*
+*.pdf
+*.xlsx
+review/*.json
